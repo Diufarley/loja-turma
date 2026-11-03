@@ -68,7 +68,7 @@ Depois, atualize a página do seu fork no site e confira se o commit apareceu.
 ## 6️⃣ Antes de ir embora: logout
 
 Máquina compartilhada! Siga a seção **"4. Indo embora: logout"** do `Guia-git-github.md`: saia da conta no VS Code, apague nome e e-mail do Git, remova a credencial do Windows e saia do GitHub no navegador.
-VEJA: https://github.com/POO-40h-tec-web-mobile-EFG/loja-turma/blob/main/_Orientacoes_e_apoio/Guia-git-github.md
+VEJA: `https://github.com/POO-40h-tec-web-mobile-EFG/loja-turma/blob/main/_Orientacoes_e_apoio/Guia-git-github.md`
 ---
 # PARA SABER MAIS:
 ## 📁 O que tem em cada pasta
