@@ -13,7 +13,7 @@ Cada aluno trabalha na **sua própria cópia** deste repositório (um *fork*) e 
 ## 1️⃣ Primeira vez: criar a sua cópia (fork)
 
 1. Entre na sua conta do GitHub pelo navegador.
-2. Nesta página, clique no botão **Fork** (canto superior direito) → **Create fork**.
+2. Acesse a página: `https://github.com/POO-40h-tec-web-mobile-EFG/loja-turma`, clique no botão **Fork** (canto superior direito) → **Create fork**.
 3. Pronto: agora existe `github.com/SEU-USUARIO/loja-turma`. **É nessa cópia que você vai trabalhar.**
 
 ## 2️⃣ Primeira vez em cada máquina: baixar o projeto
