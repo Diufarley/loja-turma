@@ -1,4 +1,4 @@
-# 🛒 Loja POO
+# Loja POO - Ecommerce Programação orientada a objetos
 
 Projeto da disciplina **Programação Orientada a Objetos em Python**.
 
