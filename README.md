@@ -217,8 +217,6 @@ Vamos construir, passo a passo, junto com o professor. Acompanhe e digite cada b
 | 2.7 | Ligar o `Cliente` ao `Carrinho`: a **associação** | `src/models/cliente.py` |
 | 2.8 | Testar tudo no `main.py` | `src/main.py` |
 
-![alt text](image.png)
-
 **Regras de negócio que vamos usar:**
 
 - **RN3:** o e-mail precisa ter `@`.
